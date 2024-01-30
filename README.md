@@ -9,3 +9,6 @@
 * Combinar ramas
 * Restaurar cambios
 * Resolver conflictos
+* Trabajo colaborativo
+* Test
+* Fin Git
