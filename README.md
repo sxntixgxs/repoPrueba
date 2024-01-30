@@ -7,4 +7,4 @@
 * Conectar repositorio remoto
 * Crear ramas
 * Combinar ramas
-* Gestión de ramas
+* Restaurar cambios
